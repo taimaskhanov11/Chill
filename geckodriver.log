@@ -1,0 +1,224 @@
+1623842402321	geckodriver	INFO	Listening on 127.0.0.1:57592
+1623842507085	geckodriver	INFO	Listening on 127.0.0.1:57770
+1623842602231	geckodriver	INFO	Listening on 127.0.0.1:58003
+1623842605255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofile78ioZ5"
+1623842605511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofile78ioZ5\\search.json.mozlz4", (void 0)))
+1623842607340	Marionette	INFO	Listening on port 58025
+1623842607429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1623842609056	Marionette	INFO	Stopped listening on port 58025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623842627918	geckodriver	INFO	Listening on 127.0.0.1:58102
+1623842630951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileQlt2gy"
+1623842631206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileQlt2gy\\search.json.mozlz4", (void 0)))
+1623842633112	Marionette	INFO	Listening on port 58111
+1623842633621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1623842634980	Marionette	INFO	Stopped listening on port 58111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623842880827	geckodriver	INFO	Listening on 127.0.0.1:58676
+1623842883849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileg2tJzn"
+1623842884116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileg2tJzn\\search.json.mozlz4", (void 0)))
+1623842885986	Marionette	INFO	Listening on port 58689
+1623842886000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1623842887440	Marionette	INFO	Stopped listening on port 58689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623843102851	geckodriver	INFO	Listening on 127.0.0.1:59766
+1623843105890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilebiThpg"
+*** You are running in headless mode.
+1623843106138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilebiThpg\\search.json.mozlz4", (void 0)))
+1623843106986	Marionette	INFO	Listening on port 59781
+1623843107422	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=Abnormzrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilep7FY3F"
+*** You are running in headless mode.
+1623843213997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilep7FY3F\\search.json.mozlz4", (void 0)))
+1623843214828	Marionette	INFO	Listening on port 60098
+1623843215293	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:60388
+1623843359066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileLbTeX4"
+*** You are running in headless mode.
+1623843359311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileLbTeX4\\search.json.mozlz4", (void 0)))
+1623843360133	Marionette	INFO	Listening on port 60402
+1623843360607	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:60466
+1623843375406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileLmC0cP"
+*** You are running in headless mode.
+1623843375644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileLmC0cP\\search.json.mozlz4", (void 0)))
+1623843376388	Marionette	INFO	Listening on port 60476
+1623843376445	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+23843392849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilejjxt0M"
+*** You are running in headless mode.
+1623843393089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilejjxt0M\\search.json.mozlz4", (void 0)))
+1623843393911	Marionette	INFO	Listening on port 60573
+1623843394396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843441902	geckodriver	INFO	Listening on 127.0.0.1:60689
+1623843444940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileybBaYb"
+1623843445196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileybBaYb\\search.json.mozlz4", (void 0)))
+1623843446910	Marionette	INFO	Listening on port 60707
+1623843446987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843458692	Marionette	INFO	Stopped listening on port 60707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623843465909	geckodriver	INFO	Listening on 127.0.0.1:60794
+1623843468948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofile5AaACA"
+1623843469201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofile5AaACA\\search.json.mozlz4", (void 0)))
+1623843470947	Marionette	INFO	Listening on port 60803
+1623843471002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843709603	Marionette	INFO	Stopped listening on port 60803
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileZGZ1gh"
+1623843499088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileZGZ1gh\\search.json.mozlz4", (void 0)))
+1623843500904	Marionette	INFO	Listening on port 60899
+1623843500994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843710703	Marionette	INFO	Stopped listening on port 60899
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilef5m6cO"
+1623843670397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilef5m6cO\\search.json.mozlz4", (void 0)))
+1623843672298	Marionette	INFO	Listening on port 61242
+1623843672814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843691569	Marionette	INFO	Stopped listening on port 61242
+1623843701526	geckodriver	INFO	Listening on 127.0.0.1:61357
+1623843704554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileY6alI0"
+*** You are running in headless mode.
+1623843704796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileY6alI0\\search.json.mozlz4", (void 0)))
+1623843705604	Marionette	INFO	Listening on port 61367
+1623843706078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843726967	geckodriver	INFO	Listening on 127.0.0.1:61443
+1623843730014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofiledl1AF0"
+*** You are running in headless mode.
+1623843730253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofiledl1AF0\\search.json.mozlz4", (void 0)))
+1623843731048	Marionette	INFO	Listening on port 61457
+1623843731559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843827721	geckodriver	INFO	Listening on 127.0.0.1:61701
+1623843830763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileHBU4em"
+1623843831031	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileHBU4em\\search.json.mozlz4", (void 0)))
+1623843832939	Marionette	INFO	Listening on port 61711
+1623843833425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843834466	Marionette	INFO	Stopped listening on port 61711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623843842668	geckodriver	INFO	Listening on 127.0.0.1:61765
+1623843845693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileFpKWEL"
+1623843845937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileFpKWEL\\search.json.mozlz4", (void 0)))
+1623843847791	Marionette	INFO	Listening on port 61780
+1623843847853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843848802	Marionette	INFO	Stopped listening on port 61780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623843852055	geckodriver	INFO	Listening on 127.0.0.1:61817
+1623843855088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileRFV1Fl"
+1623843855335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileRFV1Fl\\search.json.mozlz4", (void 0)))
+1623843857172	Marionette	INFO	Listening on port 61826
+1623843857255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623843858216	Marionette	INFO	Stopped listening on port 61826
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623843955861	geckodriver	INFO	Listening on 127.0.0.1:62020
+1623843958912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilezv4U9y"
+1623843959173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilezv4U9y\\search.json.mozlz4", (void 0)))
+1623843961015	Marionette	INFO	Listening on port 62035
+1623843961063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623844204953	Marionette	INFO	Stopped listening on port 62035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilejrkbBq"
+1623843990383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilejrkbBq\\search.json.mozlz4", (void 0)))
+1623843992100	Marionette	INFO	Listening on port 62158
+1623843992177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623844204956	Marionette	INFO	Stopped listening on port 62158
+3844000543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileB2pK1I"
+1623844000807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileB2pK1I\\search.json.mozlz4", (void 0)))
+1623844002657	Marionette	INFO	Listening on port 62245
+1623844002693	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623844204999	Marionette	INFO	Stopped listening on port 62245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileeJizuz"
+1623844063458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileeJizuz\\search.json.mozlz4", (void 0)))
+1623844065386	Marionette	INFO	Listening on port 62408
+1623844065862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623844204947	Marionette	INFO	Stopped listening on port 62408
+3844109857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileE0JuLk"
+1623844110111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofileE0JuLk\\search.json.mozlz4", (void 0)))
+1623844111986	Marionette	INFO	Listening on port 62567
+1623844112012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623844115207	Marionette	INFO	Stopped listening on port 62567
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623844118765	geckodriver	INFO	Listening on 127.0.0.1:62644
+1623844121839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofiletkTDhm"
+1623844122087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofiletkTDhm\\search.json.mozlz4", (void 0)))
+1623844124012	Marionette	INFO	Listening on port 62655
+1623844124509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623844181848	Marionette	INFO	Stopped listening on port 62655
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623844318620	geckodriver	INFO	Listening on 127.0.0.1:63099
+1623844321673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofiletAreuy"
+1623844321946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofiletAreuy\\search.json.mozlz4", (void 0)))
+1623844323883	Marionette	INFO	Listening on port 63117
+1623844324345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623844328390	Marionette	INFO	Stopped listening on port 63117
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623844549708	geckodriver	INFO	Listening on 127.0.0.1:63675
+1623844552744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilez6A4xi"
+*** You are running in headless mode.
+1623844552985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\taima\\AppData\\Local\\Temp\\rust_mozprofilez6A4xi\\search.json.mozlz4", (void 0)))
+1623844553777	Marionette	INFO	Listening on port 63684
+1623844554291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623844560129	Marionette	INFO	Stopped listening on port 63684
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
