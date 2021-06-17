@@ -1,6 +1,9 @@
 from pprint import pprint
+from outlist_BG_V2 import out_list
 
-site = 'https://www.tiktok.com/@maksbraun'
+
+site = f'{out_list[1]}'
+print(site)
 import requests
 from bs4 import BeautifulSoup
 
